@@ -1,5 +1,7 @@
 {
   "name": "bg-location",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
